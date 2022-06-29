@@ -1,0 +1,57 @@
+{
+    "exportFormatVersion": 2,
+    "exportTime": "2022-06-29 10:16:01",
+    "containerVersion": {
+        "path": "accounts/6007538811/containers/67824472/versions/1",
+        "accountId": "6007538811",
+        "containerId": "67824472",
+        "containerVersionId": "1",
+        "name": "Empty Container",
+        "container": {
+            "path": "accounts/6007538811/containers/67824472",
+            "accountId": "6007538811",
+            "containerId": "67824472",
+            "name": "Minima App",
+            "publicId": "GTM-558PK4T",
+            "usageContext": [
+                "ANDROID_SDK_5"
+            ],
+            "fingerprint": "1655117943446",
+            "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6007538811/containers/67824472/workspaces?apiLink=container"
+        },
+        "builtInVariable": [
+            {
+                "accountId": "6007538811",
+                "containerId": "67824472",
+                "type": "APP_ID",
+                "name": "App ID"
+            },
+            {
+                "accountId": "6007538811",
+                "containerId": "67824472",
+                "type": "APP_NAME",
+                "name": "App Name"
+            },
+            {
+                "accountId": "6007538811",
+                "containerId": "67824472",
+                "type": "APP_VERSION_CODE",
+                "name": "App Version Code"
+            },
+            {
+                "accountId": "6007538811",
+                "containerId": "67824472",
+                "type": "APP_VERSION_NAME",
+                "name": "App Version Name"
+            },
+            {
+                "accountId": "6007538811",
+                "containerId": "67824472",
+                "type": "EVENT_NAME",
+                "name": "Event Name"
+            }
+        ],
+        "fingerprint": "1655117943452",
+        "tagManagerUrl": "https://tagmanager.google.com/#/versions/accounts/6007538811/containers/67824472/versions/1?apiLink=version"
+    }
+}
